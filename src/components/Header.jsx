@@ -17,7 +17,7 @@ function Header() {
 					<li>
 						<a
 							className="grey-text"
-							href="*"
+							href="https://github.com/AntonMhnk/react-food-spa"
 							target="_blank"
 							rel="noreferrer"
 						>

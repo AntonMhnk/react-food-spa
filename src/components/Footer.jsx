@@ -6,7 +6,7 @@ function Footer() {
 					© 2019-{new Date().getFullYear()} Copyright Text
 					<a
 						className="grey-text text-lighten-4 right"
-						href="*"
+						href="https://github.com/AntonMhnk/react-food-spa"
 						target="_blank"
 						rel="noreferrer"
 					>
